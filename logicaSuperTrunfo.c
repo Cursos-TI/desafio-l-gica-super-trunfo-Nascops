@@ -133,5 +133,5 @@ int main() {
             printf("Opção inválida!\n");
             break;
     }
-    printf("Novo Comit\n")
+    printf("Novo Comit\n");
 }
