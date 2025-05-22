@@ -2,7 +2,7 @@
 
 int main() {
 
-    printf("Comit")
+    
     int i, opcao;
     int turismo[2], area[2];
     char nome[2][30], codigo[2][4], pais[2][30];
@@ -133,5 +133,5 @@ int main() {
             printf("Opção inválida!\n");
             break;
     }
+    printf("Novo Comit\n")
 }
-
